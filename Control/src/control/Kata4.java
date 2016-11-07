@@ -1,11 +1,13 @@
-//por que no se importA?
+package control;
+
+import model.Histogram;
+import view.HistogramDisplay;
+import view.MailHistogramBuilder;
+import view.MailListReader;
 
 import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.util.ArrayList;
-
-import
-
 
 
 public class Kata4 {
@@ -18,4 +20,3 @@ public class Kata4 {
 
     }
 }
-//falta la libreria, está mal importada, no es cosa del git

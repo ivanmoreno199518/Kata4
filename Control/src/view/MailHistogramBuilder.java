@@ -1,3 +1,7 @@
+package view;
+
+import model.Histogram;
+import model.Mail;
 
 import java.util.ArrayList;
 

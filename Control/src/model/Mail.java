@@ -1,3 +1,4 @@
+package model;
 
 public class Mail {
     private final String mail;
